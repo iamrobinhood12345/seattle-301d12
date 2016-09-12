@@ -1,5 +1,7 @@
 # Code 301: Intermediate Software Development
 
+### New Features!!!!
+
 Welcome to Code 301! This is a class that builds on your fundamental knowledge of HTML, CSS, JavaScript, git, and general web development, to prepare you for the deep dive of any Code 401 class.
 
 # Introduction
